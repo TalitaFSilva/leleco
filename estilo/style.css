@@ -1,0 +1,28 @@
+
+body{
+    background-image: url(https://png.pngtree.com/thumb_back/fw800/back_our/20190628/ourmid/pngtree-beautiful-romantic-full-heart-pink-background-image_276913.jpg);
+    background-attachment: fixed;
+    background-position: top center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: rgb(121, 39, 39);
+}
+
+div{ 
+    text-align: center;
+}
+
+a{
+    color: rgb(55, 72, 105);
+    font-size: 30px;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+p{ color: brown;
+    font-weight: bolder;
+    text-align: center;
+}
